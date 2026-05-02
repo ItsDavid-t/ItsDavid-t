@@ -5,7 +5,9 @@
 </p>
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hand-wave.gif" width='40' align="left"/> 
-<h2>¡Hola! Soy David</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+David;Estudiante+de+Ingenier%C3%ADa;Desarrollador+Flutter" alt="Typing SVG" />
+</h2>
 
 ### 👨🏻‍💻 Sobre Mí
 
