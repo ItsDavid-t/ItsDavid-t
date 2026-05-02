@@ -51,9 +51,9 @@
   <a href="https://github.com/ItsDavid-t">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsDavid-t&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/ItsDavid-t">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsDavid-t&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<a href="https://github.com/ItsDavid-t">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsDavid-t&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
+</a>
 </p>
 
 <p align="center">
