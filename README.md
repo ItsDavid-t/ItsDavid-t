@@ -6,20 +6,20 @@
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/assets/hand-wave.gif" width='40' align="left"/> 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%C2%A1Hola!+Soy+David;Estudiante+de+Ingenier%C3%ADa;Desarrollador+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+David;Computer+Science+Student;Flutter+Developer" alt="Typing SVG" />
 </h2>
 
-### 👨🏻‍💻 Sobre Mí
+### 👨🏻‍💻 About Me
 
-- 🎓 Estudiante de **Ingeniería en Ciencias Informáticas** en la **UCI**.
-- 📱 Especializado en el desarrollo de aplicaciones móviles escalables con **Flutter & Dart**.
-- ⚙️ Backend Developer construyendo sistemas robustos y eficientes con **FastAPI & PostgreSQL**.
-- 🐢 Fiel creyente de la **Clean Architecture**.
-- 📈 Apasionado por el crecimiento integral: equilibrando la programación con la educación financiera, el entrenamiento físico y el aprendizaje del inglés.
+- 🎓 **Computer Science Engineering** student at **UCI**.
+- 📱 Specialized in building scalable mobile applications with **Flutter & Dart**.
+- ⚙️ Backend Developer crafting robust and efficient systems using **FastAPI & PostgreSQL**.
+- 🐢 Firm believer in **Clean Architecture**.
+- 📈 Passionate about holistic growth: balancing coding with financial literacy, fitness, and English language mastery.
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <!-- Mobile -->
@@ -37,13 +37,13 @@
 
 ---
 
-### 📦 Proyectos Destacados
+### 📦 Featured Projects
 
 #### [Echo Stock](https://github.com/ItsDavid-t/echo-stock.git) 📈
-*Sistema inteligente de gestión de inventarios.*
+*Intelligent Inventory Management System.*
 - **Frontend:** Flutter (Cubit/BLoC State Management).
-- **Backend:** FastAPI con PostgreSQL.
-- **Arquitectura:** Integración de filtros complejos y manejo lógico de retención de datos.
+- **Backend:** FastAPI with PostgreSQL.
+- **Architecture:** Implementation of complex filtering and logical data retention systems.
 
 ---
 
@@ -62,15 +62,15 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDavid-t&theme=dark&hide_border=true"/>
 </p>
 
-### 🤝 Conectemos
+### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="right">
-  <i>"El código limpio siempre parece que fue escrito por alguien a quien le importa."</i>
+  <i>"Clean code always looks like it was written by someone who cares."</i>
 </p>
