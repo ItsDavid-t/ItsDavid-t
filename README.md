@@ -37,7 +37,7 @@
 
 ### 📦 Proyectos Destacados
 
-#### [Echo Stock](https://github.com/ItsDavid-t/echo-stock) 📈
+#### [Echo Stock](https://github.com/ItsDavid-t/echo-stock.git) 📈
 *Sistema inteligente de gestión de inventarios.*
 - **Frontend:** Flutter (Cubit/BLoC State Management).
 - **Backend:** FastAPI con PostgreSQL.
