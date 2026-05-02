@@ -12,7 +12,7 @@
 - 🎓 Estudiante de **Ingeniería en Ciencias Informáticas** en la **UCI**.
 - 📱 Especializado en el desarrollo de aplicaciones móviles escalables con **Flutter & Dart**.
 - ⚙️ Backend Developer construyendo sistemas robustos y eficientes con **FastAPI & PostgreSQL**.
-- 🐢 Fanático de las tortugas (a paso constante siempre se llega a la meta) y fiel creyente de la **Clean Architecture**.
+- 🐢 Fiel creyente de la **Clean Architecture**.
 - 📈 Apasionado por el crecimiento integral: equilibrando la programación con la educación financiera, el entrenamiento físico y el aprendizaje del inglés.
 
 ---
@@ -49,15 +49,15 @@
 
 <p align="center">
   <a href="https://github.com/ItsDavid-t">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsDavid-t&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsDavid-t&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/ItsDavid-t">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDavid-t&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsDavid-t&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDavid-t&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDavid-t&theme=dark&hide_border=true"/>
 </p>
 
 ### 🤝 Conectemos
