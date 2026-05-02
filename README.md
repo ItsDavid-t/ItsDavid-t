@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/ItsDavid-t">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsDavid-t&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsDavid-t&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   </a>
   <a href="https://github.com/ItsDavid-t">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsDavid-t&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -59,7 +59,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsDavid-t&theme=tokyonight&hide_border=true"/>
 </p>
----
 
 ### 🤝 Conectemos
 
