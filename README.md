@@ -51,7 +51,7 @@
 - **Cloud Infrastructure:** Supabase (PostgreSQL) leveraging Row Level Security (RLS) and secure Storage Buckets.
 - **Engineering:** Strict Domain-Driven Clean Architecture, decoupled `Cubit` state flows, and an automated soft-deletion lifecycle ("Reserved" status) to prevent critical data loss.
 
-#### [Echo Stock Web](https://stock.vercel.app) 🌐
+#### [Echo Stock Web](https://github.com/ItsDavid-t/web-echo-stock) 🌐
 *High-performance digital storefront for real-time public product browsing.*
 - **Core Stack:** Next.js 16, React 19, TypeScript, and Tailwind CSS 4.
 - **Live Demo:** Explore the live web application directly at [stock.vercel.app]( web-echo-stock.vercel.app).
