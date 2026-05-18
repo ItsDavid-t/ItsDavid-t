@@ -54,7 +54,7 @@
 #### [Echo Stock Web](https://github.com/ItsDavid-t/web-echo-stock) 🌐
 *High-performance digital storefront for real-time public product browsing.*
 - **Core Stack:** Next.js 16, React 19, TypeScript, and Tailwind CSS 4.
-- **Live Demo:** Explore the live web application directly at [stock.vercel.app]( web-echo-stock.vercel.app).
+- **Live Demo:** Explore the live web application directly at [stock.vercel.app](https://web-echo-stock.vercel.app).
 - **Architecture:** Domain-Driven Design (DDD) coupled with read-only cloud infrastructure integration to deliver atomic user experiences and secure catalog sandboxing.
 
 ---
