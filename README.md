@@ -45,6 +45,12 @@
 - **Backend:** FastAPI with PostgreSQL.
 - **Architecture:** Implementation of complex filtering and logical data retention systems.
 
+#### [Catalogo Admin](https://github.com/ItsDavid-t/catalogo_nova_admin.git) 📱
+*Production-ready administrative suite tailored for local retail and hardware ecosystems.*
+- **Core Stack:** Flutter (Material 3) & Dart.
+- **Cloud Infrastructure:** Supabase (PostgreSQL) leveraging Row Level Security (RLS) and secure Storage Buckets.
+- **Engineering:** Strict Domain-Driven Clean Architecture, decoupled `Cubit` state flows, and an automated soft-deletion lifecycle ("Reserved" status) to prevent critical data loss.
+
 ---
 
 ### 📊 GitHub Analytics
