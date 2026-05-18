@@ -51,6 +51,12 @@
 - **Cloud Infrastructure:** Supabase (PostgreSQL) leveraging Row Level Security (RLS) and secure Storage Buckets.
 - **Engineering:** Strict Domain-Driven Clean Architecture, decoupled `Cubit` state flows, and an automated soft-deletion lifecycle ("Reserved" status) to prevent critical data loss.
 
+#### [Echo Stock Web](https://stock.vercel.app) 🌐
+*High-performance digital storefront for real-time public product browsing.*
+- **Core Stack:** Next.js 16, React 19, TypeScript, and Tailwind CSS 4.
+- **Live Deployment:** Hosted and optimized on [Vercel](https://stock.vercel.app).
+- **Architecture:** Domain-Driven Design (DDD) coupled with read-only cloud infrastructure integration to deliver atomic user experiences and secure catalog sandboxing.
+
 ---
 
 ### 📊 GitHub Analytics
